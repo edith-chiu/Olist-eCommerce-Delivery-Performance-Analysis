@@ -75,6 +75,8 @@ Late delivery rate
 
 These metrics provide a clear overview of operational performance and potential inefficiencies.
 
+![Dashboard Preview](olist.jpg)
+
 Key Insights
 
 The analysis highlights several operational insights:
