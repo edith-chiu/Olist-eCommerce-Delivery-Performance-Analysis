@@ -1,7 +1,7 @@
 # Olist_eCommerce_Delivery_Performance_Analysis
 
-Olist eCommerce Delivery Performance Analysis (Power BI)
-Project Overview
+## Olist eCommerce Delivery Performance Analysis (Power BI)
+## Project Overview
 
 This project analyses delivery performance for Olist, a Brazilian eCommerce marketplace that connects small businesses to customers across multiple online platforms.
 
@@ -9,7 +9,7 @@ Using the public Olist eCommerce dataset, the objective of this project was to e
 
 A Power BI dashboard was developed to provide insights into delivery timelines and operational performance.
 
-Business Objective
+## Business Objective
 
 The goal of this analysis was to evaluate the efficiency of the order fulfilment process and identify opportunities to improve delivery performance.
 
@@ -23,7 +23,7 @@ Measuring delivery reliability and delay rates
 
 Analysing monthly delivery performance trends
 
-Dataset
+## Dataset
 
 The dataset used in this project is the Brazilian eCommerce Public Dataset by Olist, containing information on approximately 100,000 orders from 2016–2018.
 
@@ -45,7 +45,7 @@ Geolocation data for Brazilian zip codes
 
 These tables were combined to analyse the full order fulfilment process from purchase to delivery.
 
-Dashboard Features
+## Dashboard Features
 
 The Power BI dashboard focuses on delivery performance and logistics efficiency through the following visualisations:
 
@@ -77,7 +77,7 @@ These metrics provide a clear overview of operational performance and potential 
 
 ![Dashboard Preview](olist.jpg)
 
-Key Insights
+## Key Insights
 
 The analysis highlights several operational insights:
 
@@ -89,7 +89,7 @@ Delivery performance varies across months, suggesting possible seasonal or opera
 
 Monitoring dispatch and transport times can help identify bottlenecks in the fulfilment process.
 
-Tools Used
+## Tools Used
 
 Power BI – data modelling and dashboard creation
 
@@ -97,7 +97,7 @@ Data visualisation – KPI tracking and performance analysis
 
 Exploratory data analysis – identifying delivery trends and inefficiencies
 
-Skills Demonstrated
+## Skills Demonstrated
 
 Power BI dashboard development
 
