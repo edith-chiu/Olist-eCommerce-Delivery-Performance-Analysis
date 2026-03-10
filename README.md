@@ -89,6 +89,20 @@ Delivery performance varies across months, suggesting possible seasonal or opera
 
 Monitoring dispatch and transport times can help identify bottlenecks in the fulfilment process.
 
+
+## Business Recommendations
+
+The analysis suggests several opportunities to improve delivery performance:
+
+• Product categories with slow dispatch times may benefit from improved warehouse processing or inventory management.
+
+• Monitoring the gap between estimated and actual delivery times could help refine logistics planning.
+
+• Reducing dispatch delays in the slowest product categories could significantly lower the overall late delivery rate.
+
+These insights could help improve customer satisfaction and operational efficiency.
+
+
 ## Tools Used
 
 Power BI – data modelling and dashboard creation
